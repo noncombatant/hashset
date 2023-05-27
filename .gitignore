@@ -1,0 +1,5 @@
+.*.swp
+*.inc
+*.o
+test
+*.dSYM
